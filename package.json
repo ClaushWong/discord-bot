@@ -1,6 +1,6 @@
 {
     "name": "discord-bot",
-    "module": "src/bot.js",
+    "module": "index.ts",
     "scripts": {
         "dev": "bun run src/bot.js --hot",
         "deploy-commands": "bun run src/deploy-commands.js"
